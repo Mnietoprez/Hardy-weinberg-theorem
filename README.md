@@ -1,6 +1,6 @@
 # Hardy-weinberg-theorem
 A python file to experimentally confirm the Hardy-weinberg-theorem.
-Studies the evolution of three groups in a population, in order to showcase how the proportion between them remains constant within the generational transition
+Studies the evolution of three groups in a population, in order to showcase how the proportion between them remains constant within the generational transition.
 Instructions: 
 - Enter number of generational transitions
 - Enter number of individuals on the population (>100 in order to avoid errors)
